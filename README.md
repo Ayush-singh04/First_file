@@ -1,4 +1,4 @@
 # First_file
 This is my first repository.
-<b/r>
+<br>
 Author- Ayush Singh
